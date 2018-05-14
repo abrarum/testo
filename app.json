@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name": "testo",
+    "slug": "testo",
+    "version": "0.1.0",
+    "isDetached": true,
+    "detach": {
+      "iosExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/ios-v2.5.4-sdk27.0.0-e68cfb94-9b7e-4510-aab9-8f375e187b0b.tar.gz",
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.5.1-sdk27.0.0-bb187a9e-e43b-409f-8a5e-c16afa958cca.tar.gz"
+    },
+    "scheme": "expa400988b7c654fc3bb24c0b14edc151c",
+    "ios": {
+      "bundleIdentifier": "com.abru.testu",
+      "publishBundlePath": "ios/testo/Supporting/shell-app.bundle",
+      "publishManifestPath": "ios/testo/Supporting/shell-app-manifest.json"
+    },
+    "android": {
+      "package": "com.abru.testu",
+      "publishBundlePath": "android/app/src/main/assets/shell-app.bundle",
+      "publishManifestPath": "android/app/src/main/assets/shell-app-manifest.json"
+    }
+  }
+}
